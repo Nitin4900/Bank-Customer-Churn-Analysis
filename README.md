@@ -1,4 +1,4 @@
-# Bank Customer Churn Predictio
+# Bank Customer Churn Prediction
 
 This project uses machine learning to predict whether a customer is likely to churn (i.e., leave the bank) based on their profile and transaction behavior.
 
